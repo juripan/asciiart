@@ -1,1 +1,1 @@
-A python script that converts a png or jpg file to ACII art and saves it to a text file
+A python script that converts a .png or .jpg file to ASCII art and saves it to a .txt file
